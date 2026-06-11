@@ -1,0 +1,17 @@
+# Upstream RocksDB checkout populated by build.sh
+/rocksdb/
+
+# Build artifacts
+*.o
+*.d
+*.a
+*.so
+*.so.*
+db_bench
+make_config.mk
+
+# Editor / OS cruft
+*.swp
+*.swo
+*~
+.DS_Store

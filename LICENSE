@@ -1,0 +1,6 @@
+KVACCEL is implemented on top of RocksDB and inherits RocksDB's licensing.
+
+RocksDB is dual-licensed under the GPLv2 (see COPYING in the RocksDB source
+tree) and the Apache License 2.0 (see LICENSE.Apache). You may select either
+license. The KVACCEL source files under kvaccel/ and the modified RocksDB
+files under integration/ are released under the same dual license.
